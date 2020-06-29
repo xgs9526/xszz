@@ -1,0 +1,13 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,viewport-fit=cover"><script src=/static/publicUrl.js type=application/javascript></script><title>学生资助系统</title><link href=/static/css/app.af2b16cab2b2baa181b878cba5046049.css rel=stylesheet></head><body><script>//小米官网rem自适应代码
+		!function(n){
+		    var  e=n.document,
+		         t=e.documentElement,
+		         i=828,
+		         d=i/100,
+		         o="orientationchange"in n?"orientationchange":"resize",
+		         a=function(){
+		             var n=t.clientWidth||320;n>828&&(n=828);
+		             t.style.fontSize=n/d+"px"
+		         };
+		         e.addEventListener&&(n.addEventListener(o,a,!1),e.addEventListener("DOMContentLoaded",a,!1))
+		}(window);</script><div id=app></div><script type=text/javascript src=/static/js/manifest.2ae2e69a05c33dfc65f8.js></script><script type=text/javascript src=/static/js/vendor.2cbe8e1f105061b827b5.js></script><script type=text/javascript src=/static/js/app.1a69c5b9bc81952f6875.js></script></body></html>
